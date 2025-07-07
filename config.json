@@ -80,6 +80,14 @@
     "nxx": {
       "api": "https://naixxzy.com/api.php/provide/vod",
       "name": "奶香香资源"
+    },
+    "jkun": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "JKUN资源"
+    },
+    "ask": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "奥斯卡资源"
     }
   }
 }
